@@ -1,0 +1,169 @@
+
+.typographyTitlesH1 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 80px;
+  line-height: 80px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTitlesH2 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 72px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTitlesH3 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 56px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTitlesH4 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyParagraphLarge 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyParagraphMedium 
+{ 
+  
+  font-family: "Potta One";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyParagraphRegular 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTitlesH1 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 80px;
+  line-height: 80px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTitlesH2 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 72px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTitlesH3 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 56px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTitlesH4 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyParagraphLarge 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyParagraphMedium 
+{ 
+  
+  font-family: "Potta One";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyParagraphRegular 
+{ 
+  
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
